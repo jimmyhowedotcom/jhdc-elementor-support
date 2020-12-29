@@ -1,12 +1,21 @@
 {
   "name": "jimmyhowedotcom/jhdc-elementor-support",
+  "description": "Developer tools for Elementor & Elementor Pro",
+  "keywords": [
+    "elementor",
+    "tools"
+  ],
+  "homepage": "https://jimmyhowe.com",
+  "time": "2020-12-29",
+  "license": "MIT",
   "authors": [
     {
       "name": "Jimmy Howe",
-      "email": "director@jimmyhowe.com"
+      "email": "director@jimmyhowe.com",
+      "homepage": "https://jimmyhowe.com",
+      "role": "Director"
     }
   ],
-  "require": {},
   "autoload": {
     "psr-4": {
       "JimmyHoweDotCom\\Elementor\\Support\\": "src/"
