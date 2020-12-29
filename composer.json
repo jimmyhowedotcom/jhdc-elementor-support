@@ -1,0 +1,15 @@
+{
+  "name": "jimmyhowedotcom/jhdc-elementor-support",
+  "authors": [
+    {
+      "name": "Jimmy Howe",
+      "email": "director@jimmyhowe.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "JimmyHoweDotCom\\Elementor\\Support\\": "src/"
+    }
+  }
+}
